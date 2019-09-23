@@ -5,7 +5,7 @@ This repository contains my solutions to LeetCode questions.
 The folder structure is:
 <ul>
   <li>Algorithims - solutions to algorithims questions</li>
-  <li>SQL - solutiosn to database questions</li>
+  <li>SQL - solutions to database questions</li>
 
 </ul>
 
